@@ -1,6 +1,6 @@
-# 📄 My Online Resume
+# 📄 My Resume
 
-React + TypeScript + TailwindCSS로 제작한 **온라인 이력서**입니다.  
+React + TypeScript + TailwindCSS로 제작한 **이력서**입니다.  
 심플하고 직관적인 디자인으로, 저의 경력·기술·프로젝트를 한눈에 확인할 수 있도록 구성했습니다.
 
 ---
