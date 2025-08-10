@@ -24,7 +24,7 @@ React + TypeScript + TailwindCSS로 제작한 **온라인 이력서**입니다.
 
 ## 📸 미리보기
 <div align="center">
-  <img src="image.png" alt="Resume Preview" width="800" />
+  <img src="./docs/image.png" alt="Resume Preview" width="800" />
 </div>
 
 ---
